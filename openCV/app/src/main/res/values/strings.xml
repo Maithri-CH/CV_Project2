@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">openCV</string>
+      <string-array name="spinner_menu">
+            <item>Random</item>
+
+          <item>Greyscale</item>
+          <item>Threshold</item>
+         <!--   <item>Edge Detect</item>
+            <item>Negative</item>
+            <item>Contrast Stretch</item> -->
+            <item>Mean Blur</item>
+            <item>Gaussian Blur</item>
+            <item>Dilation</item>
+            <item>Erosion</item>
+            <item>Adaptive Threshold</item>
+            <item>Difference Of Gaussian</item>
+            <item>Sobel Edge</item>
+            <item>Canny Edge</item>
+            <item>Corner Detection</item>
+            <item>Hough Line Transform</item>
+            <item>Edgy</item>
+            <item>Best Lines</item>
+        </string-array>
+    </resources>
